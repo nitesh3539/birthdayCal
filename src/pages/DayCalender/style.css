@@ -1,0 +1,26 @@
+  .work-space{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+  }
+
+  .work-text{
+      font-size: 2.5rem;
+      color: grey;
+      font-family: Verdana, Arial, Helvetica;
+  }
+
+  .week-card{
+      display: flex;
+      flex-direction: row;
+  }
+  
+  .section {
+    background-color: gainsboro;
+    padding: 40px;
+    height: 50rem;
+    width: 80%;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+  }

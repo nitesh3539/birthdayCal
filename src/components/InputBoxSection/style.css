@@ -1,0 +1,76 @@
+  .input-section {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+  }
+
+  .json-text{ 
+    margin-top: 10px;
+    height: 480px;
+    width: 50%;
+    outline: none;
+    outline-width: 3rem;
+    border:outset 4px rgb(13, 155, 221);
+    border-radius: 4px;
+  }
+
+  textarea::-webkit-scrollbar {
+    width: 10px;
+    background-color: #F5F5F5; 
+  }
+
+  textarea::-webkit-scrollbar-thumb {
+    border-radius: 8px;
+    background-color: rgb(189, 184, 184); 
+  }
+
+
+  .input-year {
+    margin: 10px 40px;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .year-text {
+    color: #6f7274;
+    font-size: 1rem;
+    font-weight: 600;
+    font-family: Verdana, Arial, Helvetica;
+  }
+
+
+  .input-area {
+    margin-top: 10px;
+    outline: none;
+    width: 220px; 
+    height: 30px; 
+    font-size: 20px;
+    padding: 10px;
+    line-height: 50px;
+    border-width: 0.1px;
+    border-color: lightgrey;
+    border-radius: 3px;
+  }
+
+  .btn-view {
+    border-radius: 4px;  
+    background-color: #1180ca;  
+    border: none;  
+    color: #FFFFFF;  
+    text-align: center;  
+    font-size: 16px;  
+    padding: 15px;  
+    margin-top: 40px;
+    margin-left: 1px;
+    font-family: Verdana, Arial, Helvetica;
+    font-weight: bold;
+    outline: none;
+    width: 150px;  
+    transition: all 0.5s;  
+    cursor: pointer;  
+  }
+  
+  .btn-view:hover{
+    background-color: #2753e4;
+  }
+  

@@ -1,12 +1,11 @@
-# RideShare
+# BirthDay Calender
 
 Things covered
 
-1. register
-2. login / logout
-3. forgot password
-4. search
-5. success
+1. Birthday list will filter on a specific year and sort in order from youngest to oldest
+2. Each Person's is labeled as square with it's initials
+3. In a Day card all square is of equal size and should fill up as much space as possible in the card
+
 
 Steps to run development server
 

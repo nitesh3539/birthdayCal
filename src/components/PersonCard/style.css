@@ -1,0 +1,11 @@
+.person-card {
+    text-align: center;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.1rem;
+    color: white;
+    font-family: Verdana, Arial, Helvetica;
+    font-weight: bold;
+}
